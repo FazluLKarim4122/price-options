@@ -8,8 +8,8 @@ function App() {
 
   return (
     <>
-    <DaisyNav></DaisyNav>
     <Navbar></Navbar>
+    <DaisyNav></DaisyNav>
       
 
     </>
